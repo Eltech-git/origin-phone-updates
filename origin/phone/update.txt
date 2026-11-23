@@ -1,0 +1,5 @@
+build 102
+size 5293760
+sha256 7269b0f6d9e5b0af5bdedfe2ffabdfb00778cebe1fce89137e02ca1accaa807b
+sig a2337ae5bdfd8eebad86ec5b3481fc3d1edc3ca28650edeb873233122e62c9e6 5c0884dbd44bdc2dda9e197de75412fb348b677a7eaf91aa950f2353239552e0
+name prima pubblicazione 23 nov 2026
